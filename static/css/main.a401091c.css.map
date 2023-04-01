@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a401091c.css","mappings":"AAAA,uBAKE,WAAY,CACZ,QAAS,CAFT,UAGF","sources":["style.css"],"sourcesContent":["html,\r\nbody,\r\n#root,\r\ncanvas {\r\n  width: 100%;\r\n  height: 100%;\r\n  margin: 0;\r\n}\r\n"],"names":[],"sourceRoot":""}

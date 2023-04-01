@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/carshow/static/css/main.a401091c.css",
+    "main.js": "/carshow/static/js/main.6223dec5.js",
+    "index.html": "/carshow/index.html",
+    "main.a401091c.css.map": "/carshow/static/css/main.a401091c.css.map",
+    "main.6223dec5.js.map": "/carshow/static/js/main.6223dec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a401091c.css",
+    "static/js/main.6223dec5.js"
+  ]
+}
